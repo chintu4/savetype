@@ -3,6 +3,9 @@ this repo code  and exe in linux that just help you to save your keystroke for y
 ## installation
 * there is a code and executable called q 
 * save q in /usr/bin
+## os supported
+* linux
+* windows(just change the url in the source and compile)
 ## usage 
 * first try to save a command 
 * q w key "value"
