@@ -19,9 +19,9 @@ format:
 * vim gets opened 
 ## how fast is it 
 You can see the results i got
-real	0m0.005s
-user	0m0.000s
-sys	0m0.004s
+* real	0m0.005s
+* user	0m0.000s
+* sys	0m0.004s
 
 # issues
 * currently cd command is not working
