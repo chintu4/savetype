@@ -1,4 +1,4 @@
-# savetype
+# savetypeing
 this repo code  and exe in linux that just help you to save your keystroke for your repeated or regular commands
 ## installation
 * there is a code and executable called q 
