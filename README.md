@@ -3,9 +3,9 @@ this repo code  and exe in linux that just help you to save your keystroke for y
 for MORE information 
 (da288.blogspot.com)[https://da288.blogspot.com/2022/09/save-your.html]
 ## arguments:
-w - write an key
-p - print existing commands
-r - remove a key
+* w - write an key
+* p - print existing commands
+* r - remove a key
 ## installation
 * there is a code and executable called q 
 * save q in /usr/bin
