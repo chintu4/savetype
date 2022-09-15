@@ -19,8 +19,10 @@ for MORE information
 #### example:
 * q w code "vim /home/{user}/p.c"
 * directly call it from any where 
-format:
-* q key
+######format:
+* q code
+* q p
+* q r code
 ##### example 
 * q code
 * vim gets opened 
