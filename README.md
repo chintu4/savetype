@@ -28,4 +28,3 @@ You can see the results i got
 * currently cd command is not working
 * you cannot place a value "cd /home/{user}" instead can place "vim /home/{user}"
 * besure each user have his own key value saved in /home/{user}/Documents/c.txt
-* do not manual try to c.txt
