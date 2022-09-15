@@ -1,5 +1,5 @@
 CC=g++
-file=a.cpp
+file=q_latest.cpp
 out=q
 run:
 	$(CC) $(file) -o $(out)
