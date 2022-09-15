@@ -1,5 +1,6 @@
 # savetypeing
 this repo code  and exe in linux that just help you to save your keystroke for your repeated or regular commands
+for MORE information ->(da288.blogspot.com)[https://da288.blogspot.com/2022/09/save-your.html]
 ## installation
 * there is a code and executable called q 
 * save q in /usr/bin
