@@ -1,3 +1,6 @@
+/* author: chintu sharma
+   email: chintusharma00014@gmail.com
+*/
 #include <iostream>
 #include <string.h>
 #include <fstream>
